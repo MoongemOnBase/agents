@@ -1,0 +1,68 @@
+Uri: https://www.superagents.fun/
+File Name: C:\Downloaded Web Sites\www.superagents.fun\index.htm
+Content Type: text/html
+
+Uri: https://www.superagents.fun/background.webm
+File Name: C:\Downloaded Web Sites\www.superagents.fun\background.webm
+Content Type: video/webm
+
+Uri: https://www.superagents.fun/favicon.ico
+File Name: C:\Downloaded Web Sites\www.superagents.fun\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.superagents.fun/music.ogg
+File Name: C:\Downloaded Web Sites\www.superagents.fun\music.ogg
+Content Type: audio/ogg
+
+Uri: https://www.superagents.fun/SuperAgents.pdf
+File Name: C:\Downloaded Web Sites\www.superagents.fun\SuperAgents.pdf
+Content Type: application/pdf
+
+Uri: https://www.superagents.fun/_next/image?url=%2Fterminal-logo.gif&w=48&q=75
+File Name: C:\Downloaded Web Sites\www.superagents.fun\_next\terminal-logo-1.gif
+Content Type: image/gif
+
+Uri: https://www.superagents.fun/_next/image?url=%2Fterminal-logo.gif&w=96&q=75
+File Name: C:\Downloaded Web Sites\www.superagents.fun\_next\terminal-logo.gif
+Content Type: image/gif
+
+Uri: https://www.superagents.fun/_next/static/chunks/117-2d52f04c070d861c.js
+File Name: C:\Downloaded Web Sites\www.superagents.fun\_next\static\chunks\117-2d52f04c070d861c.js
+Content Type: application/javascript
+
+Uri: https://www.superagents.fun/_next/static/chunks/589-012c46c4f39e2e21.js
+File Name: C:\Downloaded Web Sites\www.superagents.fun\_next\static\chunks\589-012c46c4f39e2e21.js
+Content Type: application/javascript
+
+Uri: https://www.superagents.fun/_next/static/chunks/app/page-1d6572b36f50925a.js
+File Name: C:\Downloaded Web Sites\www.superagents.fun\_next\static\chunks\app\page-1d6572b36f50925a.js
+Content Type: application/javascript
+
+Uri: https://www.superagents.fun/_next/static/chunks/fd9d1056-8fef90fb5a0b2194.js
+File Name: C:\Downloaded Web Sites\www.superagents.fun\_next\static\chunks\fd9d1056-8fef90fb5a0b2194.js
+Content Type: application/javascript
+
+Uri: https://www.superagents.fun/_next/static/chunks/main-app-2dcde4753ea0d175.js
+File Name: C:\Downloaded Web Sites\www.superagents.fun\_next\static\chunks\main-app-2dcde4753ea0d175.js
+Content Type: application/javascript
+
+Uri: https://www.superagents.fun/_next/static/chunks/polyfills-42372ed130431b0a.js
+File Name: C:\Downloaded Web Sites\www.superagents.fun\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://www.superagents.fun/_next/static/chunks/webpack-ebc79273db301c8f.js
+File Name: C:\Downloaded Web Sites\www.superagents.fun\_next\static\chunks\webpack-ebc79273db301c8f.js
+Content Type: application/javascript
+
+Uri: https://www.superagents.fun/_next/static/css/c00ea4f69947a9da.css
+File Name: C:\Downloaded Web Sites\www.superagents.fun\_next\static\css\c00ea4f69947a9da.css
+Content Type: text/css
+
+Uri: https://www.superagents.fun/_next/static/media/4473ecc91f70f139-s.p.woff
+File Name: C:\Downloaded Web Sites\www.superagents.fun\_next\static\media\4473ecc91f70f139-s.p.woff
+Content Type: font/woff
+
+Uri: https://www.superagents.fun/_next/static/media/463dafcda517f24f-s.p.woff
+File Name: C:\Downloaded Web Sites\www.superagents.fun\_next\static\media\463dafcda517f24f-s.p.woff
+Content Type: font/woff
+
